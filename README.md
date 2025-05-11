@@ -115,6 +115,9 @@ Components:
     System Boundary: A rectangle that defines the scope of the system, enclosing all use cases.
     Relationships: Arrows connecting actors to use cases, indicating interactions. Relationships can include associations, generalizations, and include or extend relationships.
 
+    ![hotel-booking-use-case-diagram](https://github.com/user-attachments/assets/9b285b57-e2cf-4281-92e5-05076c5987d6)
+
+
 Benefits of Use Case Diagrams
 
     Clarity in Requirements:
