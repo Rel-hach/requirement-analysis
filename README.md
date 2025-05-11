@@ -115,7 +115,7 @@ Components:
     System Boundary: A rectangle that defines the scope of the system, enclosing all use cases.
     Relationships: Arrows connecting actors to use cases, indicating interactions. Relationships can include associations, generalizations, and include or extend relationships.
     
-![alx-booking-uc jpeg](https://github.com/user-attachments/assets/16e69f79-7c4a-4508-8b56-2dd886aa263e)
+![alx-booking-uc png](https://github.com/user-attachments/assets/b175c726-26b5-4bed-ae4d-b72482799c4d)
 
 
 Benefits of Use Case Diagrams
