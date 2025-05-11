@@ -117,6 +117,8 @@ Components:
     
 ![alx-booking-uc.png](https://github.com/user-attachments/assets/e1f4d20b-38dc-4072-b624-e7b6d006bf0e)
 
+![Image](https://github.com/user-attachments/assets/ebe00dc3-c420-44bd-aadf-eca2f5fe66f6)
+
 
 
 Benefits of Use Case Diagrams
